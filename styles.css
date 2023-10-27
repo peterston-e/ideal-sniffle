@@ -169,6 +169,7 @@ body {
   align-items: center;
   border-radius: 2vmin;
   padding: 2vh;
+  background-color: var(--orange);
 }
 
 .add-to-cart img {
