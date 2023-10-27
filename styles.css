@@ -115,6 +115,7 @@ body {
   font-size: 0.7rem;
   color: var(--orange);
   letter-spacing: 0.1rem;
+  text-transform: uppercase;
 }
 
 .product-description {
@@ -164,7 +165,7 @@ body {
   color: var(--white);
   display: flex;
   flex-direction: row;
-  justify-content: left;
+  justify-content: center;
   align-items: center;
   border-radius: 2vmin;
   padding: 2vh;
